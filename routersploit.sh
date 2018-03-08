@@ -28,7 +28,7 @@ echo -e ${yellow} "                https://www.youyube.com/c/HA-MRX"
 
 echo -e $Green'                        .-  _           _  -.
                        /   /             \   \
-                      (   (  (  (-X-)  )  )   )
+                      (   (  (  (-HA-MRX-)  )  )   )
                        \   \_           _/   /
                          -                 -'
 echo ""    
