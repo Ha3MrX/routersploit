@@ -22,7 +22,7 @@
 #### Screen Shot
 
 
-![capture](https://user-images.githubusercontent.com/33704360/37155279-8da70066-22f3-11e8-9d9e-e4843f4d4751.PNG)
+![screenshot from 2018-03-08 10-22-17](https://user-images.githubusercontent.com/33704360/37159211-52ee57fc-22fe-11e8-9800-83921d7be453.png)
 
 
 ###### YouTube channel
