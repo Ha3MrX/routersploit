@@ -32,7 +32,7 @@ echo -e $Green'                        .-  _           _  -.
                        \   \_           _/   /
                          -                 -'
 echo ""    
-echo -e $Green'                     Unlock Wps By HA-MRX v1.1'
+echo -e $Green'                     Create By HA-MRX v1.1'
 echo ""
 echo -e $red'  3zel Acheno Bghiti Dir :'
 echo ""
