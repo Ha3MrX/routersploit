@@ -8,11 +8,11 @@
 
 #### ls
 
-#### chmod +x Geek95.sh
+#### chmod +x routersploit.sh 
 
 ##### ls
 
-#### ./Geek95.sh
+#### routersploit.sh 
 
 #### Screen Shot
 
