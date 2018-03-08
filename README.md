@@ -4,7 +4,7 @@
 
 ### git clone https://github.com/ha-mrx/HA-MRX
 
-### cd HA-MRX
+### cd routersploit
 
 #### ls
 
