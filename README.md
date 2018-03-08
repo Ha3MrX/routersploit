@@ -7,7 +7,7 @@
 
 ### Download & Install 
 
-### git clone https://github.com/ha-mrx/routersploit
+ git clone https://github.com/ha-mrx/routersploit
 
 ### cd routersploit
 
