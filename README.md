@@ -25,9 +25,9 @@
 ![screenshot from 2018-03-08 10-22-17](https://user-images.githubusercontent.com/33704360/37159211-52ee57fc-22fe-11e8-9800-83921d7be453.png)
 
 
-######################################### YouTube channel
+### YouTube Channel
 
-############################################ https://www.youtube.com/c/HA-MRX
+### https://www.youtube.com/c/HA-MRX
 
 
 
