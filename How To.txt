@@ -1,5 +1,0 @@
-cd Desktop
-ls
-chmod +x Geek95.sh
-ls
-./Geek95.sh
