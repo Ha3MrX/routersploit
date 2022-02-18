@@ -32,7 +32,7 @@
 
 ### Video Tutorials
 
-https://www.youtube.com/watch?v=CNlMNSDYroI&t=196s
+https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA
 
 
 
